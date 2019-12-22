@@ -8,8 +8,10 @@
 
 ### 使い方
 
-``` pip install lexpp ```
-``` python3 -m lexpp.dict_builder --input {file} --output {file} ```
+```
+pip install lexpp
+python3 -m lexpp.dict_builder --input {file} --output {file}
+```
 
 * 日本語WordNet
 
