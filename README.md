@@ -1,4 +1,4 @@
-## lexpp resources for pre-processing
+## lexpp resources
 
 ### このリポジトリについて
 
